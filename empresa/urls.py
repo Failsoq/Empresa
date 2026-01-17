@@ -24,5 +24,6 @@ urlpatterns = [
     path('empleados/', include('empleados.urls')),
     path('productos/', include('productos.urls')),
     path('pedidos/', include('pedidos.urls')),
-
 ]
+
+#alt + shift para duplicar codigo
